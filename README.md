@@ -7,7 +7,7 @@
 
 ##  :fa-gamepad: 操作演示
 
-![操作演示](https://gitee.com/smartoldfish/ocr-assistant/raw/master/demo.gif "操作演示")
+![操作演示](https://raw.githubusercontent.com/net10010/OCR/main/demo.gif "操作演示")
 
 ## :fa-flash: 下载地址
 
