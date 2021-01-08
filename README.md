@@ -6,6 +6,7 @@
 
 ##  操作演示
 
+![demo](https://cdn.jsdelivr.net/gh/net10010/image@master/demo.5aviu7rg6a00.gif)
 ![操作演示](https://github.com/net10010/OCR/raw/main/demo.gif "操作演示")
 
 ## 下载地址
